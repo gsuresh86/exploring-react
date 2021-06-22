@@ -1,0 +1,9 @@
+<script src="https://localhost:4200/runtime.js" type="module"></script>
+<script src="https://localhost:4200/polyfills.js" type="module"></script>
+<script src="https://localhost:4200/styles.js" type="module"></script>
+<script src="https://localhost:4200/vendor.js" type="module"></script>
+<script src="https://localhost:4200/main.js" type="module"></script>
+
+<script src="https://localhost:4201/runtime.js" type="module"></script>
+<script src="https://localhost:4201/polyfills.js"></script>
+   <script src="https://localhost:4201/main.js"></script>
